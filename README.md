@@ -9,7 +9,7 @@ Welcome! This is a clean, ready-to-use list of **44,936 construction companies a
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **44,936 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($10 total) -> **[GUMROAD-PENDING-QUOTA]** |
+| **Full dataset** | **44,936 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($10 total) -> **https://islandprosoftware.gumroad.com/l/pdgukt** |
 
 > Start with the [free 500-row sample](companies_sample500.csv) -- same columns, same format as the full file. If it fits your workflow, grab the complete 44,936-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ This repo contains a **free 500-row sample** of construction australia companies
 - **44,936 australia construction companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $10 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here -> **[GUMROAD-PENDING-QUOTA]**
+- Buy here -> **https://islandprosoftware.gumroad.com/l/pdgukt**
 
 ## Use cases
 
